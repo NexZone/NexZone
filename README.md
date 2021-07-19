@@ -1,7 +1,6 @@
 ### 👋 Hi there!
-- :recycle:	Full stack developer.
+- 🔧 Mediocre Javascript coder
 - :atom_symbol: currently deepdiving into ReactJS
-- :lock:	Working on Norvel
 <!--
 **NexZone/NexZone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
